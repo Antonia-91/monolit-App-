@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>Express</title>
+    <link rel="stylesheet" href="./stylesheets/style.css" />
+  </head>
+
+  <body>
+    <div class="overlay-more-info"></div>
+    <div class="main">
+      <nav class="navbar">
+        <div class="brand-title">My Books</div>
+        <a href="#" class="toggle-button">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#form">Add new Book</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="wrapper-flex">
+        <!--cards -->
+      </div>
+
+      <form id="form">
+        <label> Book Title :</label>
+        <input id="title" placeholder=" title " type="text" required />
+        <label> writer :</label>
+        <input id="writer" placeholder="writer" type="text" required />
+        <label> Pages :</label>
+        <input id="pages" placeholder=" pages Number" type="text" required />
+        <label>Image URL :</label>
+        <input id="img-url" placeholder=" img-url" type="text" required />
+        <!-- <input id="submit" type="submit" value="Submit" /> -->
+        <button id="submit" type="submit" value="Submit">Submit</button>
+      </form>
+
+      <footer>antonia</footer>
+    </div>
+
+    <script src="./javascripts/script.js"></script>
+  </body>
+</html>

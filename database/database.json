@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "2",
+    "title": "The Hobbit ",
+    "writer": "JRR Tolkien",
+    "pages": 300,
+    "imgUrl": "url",
+    "available": false,
+    "slugTitle": "the-hobbit-pocket-edition"
+  },
+  {
+    "_id": "0c20b4fe-a58f-4f4b-a2be-83b72333a9fa",
+    "title": "The Hateful Eight",
+    "writer": "Tarantino",
+    "pages": 444,
+    "imgUrl": "https://static.posters.cz/image/750/poster/the-hateful-eight-damn-good-reason-i28467.jpg",
+    "available": false,
+    "slugTitle": ""
+  },
+  {
+    "_id": "1825def8-aec6-4077-8d05-22b13adb6ef9",
+    "title": "Mortal Kombat",
+    "writer": "Ed Boon",
+    "pages": 3333,
+    "imgUrl": "https://media.comicbook.com/2021/02/mortal-kombat-movie-scorpion-poster-1257057.jpeg?auto=webp&width=1200&height=1500&crop=1200:1500,smart",
+    "available": true,
+    "slugTitle": ""
+  },
+  {
+    "_id": "23bd3b33-fcb8-4360-b13f-6eaaa4f34a07",
+    "title": "helloooooo",
+    "writer": "tetete",
+    "pages": 899,
+    "imgUrl": "url",
+    "available": true,
+    "slugTitle": "overlevarna"
+  }
+]
